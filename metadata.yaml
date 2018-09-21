@@ -1,0 +1,25 @@
+_repo: The-Judgement-of-Valhalla_53756
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frankau, Gilbert
+    birthdate: 1884
+    deathdate: 1952
+    gutenberg_agent_id: '40564'
+    url: http://www.gutenberg.org/2009/agents/40564
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Frankau
+description: ''
+gutenberg_issued: '2016-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: The Judgement of Valhalla
+url: http://www.gutenberg.org/ebooks/53756
